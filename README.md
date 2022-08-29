@@ -1,12 +1,12 @@
 ### Hi there, I am Rutik Kulkarni 👋👋
 
-- 🔭 I’m currently working on Software Development Projects.
-- 🌱 I’m currently learning Fullstack Development.
-- 👯 I’m looking to collaborate on bulding communities and contribute to open source.
+- 🔭 I’m currently working on <strong>Software Development Projects</strong>.
+- 🌱 I’m currently learning <strong>Fullstack Development</strong>.
+- 👯 I’m looking to collaborate on bulding communities and contribute to <strong>open source</strong>.
 - 💬 Ask me about Java, Data Science, Machine Learning, Career, etc.
 - 📫 How to reach me: https://rutik-kulkarni.web.app
 - 😄 Pronouns: He/him
-- ⚡ Fun fact:  I am crazy about Google products.
+- ⚡ Fun fact:  I am crazy about <strong>Google</strong> products.
 
 <!--
 **RutikKulkarni/RutikKulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
