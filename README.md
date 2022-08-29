@@ -1,4 +1,4 @@
-### Hi there, I am Rutik Kulkarni 👋👋
+# Hi there, I am Rutik Kulkarni 👋👋
 
 - 🔭 I’m currently working on <strong>Software Development Projects</strong>.
 - 🌱 I’m currently learning <strong>Fullstack Development</strong>.
