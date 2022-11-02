@@ -6,7 +6,7 @@
 - 💬 Ask me about Java, Data Science, Machine Learning, Career, etc.
 - 📫 How to reach me: https://rutik-kulkarni.web.app
 - 😄 Pronouns: He/him
-- ⚡ Fun fact:  I am crazy about <strong>Google</strong> products.
+-⚡ Fun fact:  I am crazy about <strong>New Technology & Innovation</strong>.
 
 <!--
 **RutikKulkarni/RutikKulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
