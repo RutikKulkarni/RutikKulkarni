@@ -10,17 +10,21 @@
 - ⚡ Fun fact:  I am crazy about <strong>New Technology & Innovation</strong>.
 -->
 
+<!--
 <h1 align="center">Hi 👋, I'm Rutik Kulkarni</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="rutikkulkarni" /> </p>
+-->
 
 # Hi there, I am Rutik Kulkarni 👋👋
+A passionate Full Stack Developer from India.
 - 🔭 I’m currently working on **Software Development Projects.**
 - 🌱 I’m currently learning **Full Stack Development.**
 - 👯 I’m looking to collaborate on **on bulding communities and contribute to open source.**
 - 🤝 I’m looking for help with **Data Structures & Algorithms**
+<!--
 - 👨‍💻 All of my projects are available at [https://rutik-kulkarni.web.app](https://rutik-kulkarni.web.app)
+-->
 - 📝 I regularly write articles on [https://gyamatech.blogspot.com](https://gyamatech.blogspot.com)
 - 💬 Ask me about **Java, React.js, Node.js, JavaScript, Data Science, AI/ML, Career, etc.**
 - 📫 How to reach me **therutikkulkarni@gmail.com**
