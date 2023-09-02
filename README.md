@@ -1,5 +1,5 @@
 
-<!--
+
 # Hi there, I am Rutik Kulkarni 👋👋
 - 🔭 I’m currently working on <strong>Software Development Projects</strong>.
 - 🌱 I’m currently learning <strong>Fullstack Development</strong>.
@@ -8,7 +8,7 @@
 - 📫 How to reach me: https://rutik-kulkarni.web.app
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:  I am crazy about <strong>New Technology & Innovation</strong>.
--->
+
 
 <!--
 <h1 align="center">Hi 👋, I'm Rutik Kulkarni</h1>
@@ -16,6 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="rutikkulkarni" /> </p>
 -->
 
+<!--
 # Hi there, I am Rutik Kulkarni 👋👋
 A passionate Full Stack Developer from India.
 - 🔭 I’m currently working on **Software Development Projects.**
@@ -26,6 +27,8 @@ A passionate Full Stack Developer from India.
 - 📫 How to reach me **therutikkulkarni@gmail.com**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact **I am crazy about New Technology & Innovation.**
+-->
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
