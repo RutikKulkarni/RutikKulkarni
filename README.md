@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning <strong>Fullstack Development</strong>.
 - 👯 I’m looking to collaborate on bulding communities and contribute to <strong>open source</strong>.
 - 💬 Ask me about Java, Data Science, Machine Learning, Career, etc.
-- 📫 How to reach me: https://rutik-kulkarni.web.app
+<!-- - 📫 How to reach me: https://rutik-kulkarni.web.app -->
+- 📫 How to reach me: [Portfolio](https://www.crio.do/learn/portfolio/rutikkulkarni2001/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:  I am crazy about <strong>New Technology & Innovation</strong>.
 
