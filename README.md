@@ -10,6 +10,26 @@
 - ⚡ Fun fact:  I am crazy about <strong>New Technology & Innovation</strong>.
 <!-- - 📫 How to reach me: https://rutik-kulkarni.web.app -->
 
+## Skills
+- Programming Languages: 
+  - Java ![Java](https://img.shields.io/badge/-Java-orange)
+  - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  - Python ![Python](https://img.shields.io/badge/-Python-blue)
+- Web Development: 
+  - HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-orange)
+  - CSS3 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+  - React ![React](https://img.shields.io/badge/-React-blue)
+  - Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- Database:
+  - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+  - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- Machine Learning: 
+  - TensorFlow ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
+  - scikit-learn ![scikit-learn](https://img.shields.io/badge/-scikit--learn-blue)
+- Version Control: 
+  - Git ![Git](https://img.shields.io/badge/-Git-red)
+  - GitHub ![GitHub](https://img.shields.io/badge/-GitHub-black)
+
 <!--
 <h1 align="center">Hi 👋, I'm Rutik Kulkarni</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
