@@ -8,10 +8,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.crio.do/learn/portfolio/rutikkulkarni2001/">
+  <a href="https://www.crio.do/learn/portfolio/rutikkulkarni2001/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Check%20out%20my%20portfolio-green?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/rutikkulkarni/">
+  <a href="https://www.linkedin.com/in/rutikkulkarni/" target="_blank">
     <img src="https://img.shields.io/badge/-Rutik%20Kulkarni-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rutikkulkarni/" alt="LinkedIn" />
   </a>
 </div>
