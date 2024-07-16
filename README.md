@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.crio.do/learn/portfolio/rutikkulkarni2001/" target="_blank">
+  <a href="https://rutik-kulkarni.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Check%20out%20my%20portfolio-green?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/rutikkulkarni/" target="_blank">
