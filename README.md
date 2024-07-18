@@ -76,13 +76,24 @@
 </div>
 
 <br>
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=RutikKulkarni&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutikKulkarni&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-
 <div>
   <img src="https://komarev.com/ghpvc/?username=rutikkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="rutikkulkarni" />
 </div>
+
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="https://github-readme-stats.vercel.app/api?username=RutikKulkarni&theme=blueberry&count_private=true&hide_border=true&line_height=20">
+    <img src="https://github-readme-stats.vercel.app/api?username=RutikKulkarni&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RutikKulkarni&layout=compact&theme=blueberry&count_private=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutikKulkarni&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=RutikKulkarni">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RutikKulkarni&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RutikKulkarni" alt="RutikKulkarni" /></a> </p>
+</details>
+
+
