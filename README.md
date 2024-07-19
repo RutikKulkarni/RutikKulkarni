@@ -8,6 +8,9 @@
 </div>
 
 <div align="center">
+  <a href="#" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=rutikkulkarni&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
   <a href="https://rutik-kulkarni.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Check%20out%20my%20portfolio-green?style=for-the-badge" alt="Portfolio" />
   </a>
